@@ -5,8 +5,6 @@
 -  I’m currently learning everything
 -  My 2021 Goals: Make my own website, game in Unity and android application and Uni projects
 
-### Connect with me: (website is not ready yet)
-
 <br />
 <div algin="center">
 <h3 align="center">Languages and Tools:</h3>
@@ -27,9 +25,9 @@
 <br />
 <br />
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lecarteloo&show_icons=true&locale=en&layout=compact" alt="lecarteloo" /></p>
+<p algin="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lecarteloo&show_icons=true&locale=en&layout=compact" alt="lecarteloo" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=lecarteloo&show_icons=true&locale=en" alt="lecarteloo" /></p>
+<p algin="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=lecarteloo&show_icons=true&locale=en" alt="lecarteloo" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=lecarteloo&" alt="lecarteloo" /></p>
+<p algin="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lecarteloo&" alt="lecarteloo" /></p>
 </div>
