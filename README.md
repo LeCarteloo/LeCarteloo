@@ -7,8 +7,6 @@
 
 ### Connect with me: (website is not ready yet)
 
-[<img align="center" alt="not-yet-ready" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
 <br />
 <div algin="center">
 <h3 align="center">Languages and Tools:</h3>
@@ -29,10 +27,9 @@
 <br />
 <br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lecarteloo&show_icons=true&locale=en&layout=compact" alt="lecarteloo" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lecarteloo&show_icons=true&locale=en&layout=compact" alt="lecarteloo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lecarteloo&show_icons=true&locale=en" alt="lecarteloo" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=lecarteloo&show_icons=true&locale=en" alt="lecarteloo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lecarteloo&" alt="lecarteloo" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=lecarteloo&" alt="lecarteloo" /></p>
 </div>
-[website]: https://ncwebsite.pl
