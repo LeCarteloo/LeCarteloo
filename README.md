@@ -1,4 +1,4 @@
-### Hello there, I'm Filip - aka [LeCarteloo][website]
+### Hello there, I'm Filip - aka LeCarteloo
 
 ## I'm an IT student!
 
@@ -7,7 +7,7 @@
 
 ### Connect with me: (website is not ready yet)
 
-[<img align="left" alt="not-yet-ready" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="not-yet-ready" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
 
@@ -31,7 +31,7 @@
 <br />
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lecarteloo&show_icons=true&locale=en&layout=compact" alt="lecarteloo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lecarteloo&show_icons=true&locale=en&layout=compact" alt="lecarteloo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lecarteloo&show_icons=true&locale=en" alt="lecarteloo" /></p>
 
