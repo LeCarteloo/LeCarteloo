@@ -2,8 +2,8 @@
 
 ## I'm an IT student!
 
--  I’m currently learning everything
--  My 2021 Goals: Make my own website, game in Unity and android application and Uni projects
+-  I’m currently learning Laravel, Bootstrap
+-  My 2021 Goals: Portfolio website, mobile application and learn two frameworks (first for backend, second one for frontend).
 
 <br />
 <div algin="center">
@@ -18,8 +18,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> </a> <a href="https://unity.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="40" height="40"/> </p>
 <br />
+<h3 align="center">Just started:</h3>  
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass" width="40" height="40"/> 
 <br />
+</p>
 </div>
