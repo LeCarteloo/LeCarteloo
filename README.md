@@ -2,8 +2,8 @@
 
 ## I'm an IT student!
 
--  I’m currently learning Laravel, Bootstrap
--  My 2021 Goals: Portfolio website, mobile application and learn two frameworks (first for backend, second one for frontend).
+-  I’m currently learning Laravel, Bootstrap, Java
+-  My 2021 Goals: Portfolio website, learn two frameworks (first for backend, second one for frontend).
 
 <br />
 <div algin="center">
