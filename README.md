@@ -1,31 +1,35 @@
-## Hello there, I'm Filip - aka LeCarteloo. I'm an IT student!
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="head.svg">
+    <source media="(prefers-color-scheme: light)" srcset="head-light.svg">
+    <img alt="Filip Papiernik - Front-End Developer" src="head-light.svg" width="100%" />
+</picture>
 
-### Links:
-* Portfolio website: <a href="https://filippapiernik.pl">https://filippapiernik.pl</a>
-* LinkedIn: <a href="https://www.linkedin.com/in/filip-papiernik/">https://www.linkedin.com/in/filip-papiernik/</a>
-* Email: <a href="mailto:filippapiernik1999@gmail.com">filippapiernik1999@gmail.com</a>
+<div align="center">
+    <a href="https://filippapiernik.pl">
+        <img alt="Portfolio website" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/filip-papiernik/">
+        <img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"/>
+    </a>
+    <a href="mailto:filippapiernik1999@gmail.com">
+        <img alt="Email contact" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+</div>
 
-<br />
-<div algin="left">
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png" alt="mongodb" width="auto" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="40" height="40"/>
-</p>
-<br />
-  
-<h3 align="left">Currently focusing on:</h3>  
-<p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/> 
-<br />
-</p>
+<div align="center">
+    <br>
+    <h3>My tech stack:<h3>
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img alt="Node" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+    <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img alt="Styled components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+    <br/>
+    <br/>
+    <img src="https://komarev.com/ghpvc/?username=LeCarteloo&style=for-the-badge&color=ff004f">
 </div>
