@@ -33,3 +33,7 @@
     <br/>
     <img src="https://komarev.com/ghpvc/?username=LeCarteloo&style=for-the-badge&color=ff004f">
 </div>
+
+<div align="center" width="20%">
+    The portfolio website is currently down and being redesigned - all <strong>"Live Links"</strong> and <strong>"Pages About Projects"</strong> do not work.
+</div>
