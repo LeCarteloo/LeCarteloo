@@ -5,9 +5,6 @@
 </picture>
 
 <div align="center">
-    <a href="https://filippapiernik.pl">
-        <img alt="Portfolio website" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-    </a>
     <a href="https://www.linkedin.com/in/filip-papiernik/">
         <img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"/>
     </a>
@@ -35,5 +32,4 @@
 </div>
 
 <div align="center" width="20%">
-    The portfolio website is currently down and being redesigned - all <strong>"Live Links"</strong> and <strong>"Pages About Projects"</strong> do not work.
 </div>
